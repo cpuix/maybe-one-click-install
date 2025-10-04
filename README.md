@@ -2,7 +2,6 @@
 
 🚀 **One-click deployment of Maybe Finance on Ubuntu 24.04 with Docker, Nginx, and SSL**
 
-
 ## 🎯 Overview
 
 This repository provides a complete, automated installation script for [Maybe Finance](https://github.com/maybe-finance/maybe) - the open-source personal finance application. The script handles everything from Docker installation to SSL certificate setup, giving you a production-ready deployment in minutes.
