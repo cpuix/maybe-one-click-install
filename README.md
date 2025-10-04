@@ -1,5 +1,5 @@
 # Maybe Finance Complete Installation Guide
-
+ 
 🚀 **One-click deployment of Maybe Finance on Ubuntu 24.04 with Docker, Nginx, and SSL**
 
 ## 🎯 Overview
